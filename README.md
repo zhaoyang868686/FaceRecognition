@@ -5,6 +5,7 @@
 作者：赵阳</br>
 日期：2017年4月30日</br>
 
+请将DLL文件夹和Models文件夹放到FaceRecognition根目录下。</br>
 请直接调用 FaceRecognition.faceVerify(arr1, arr2) 函数。其他函数可能会在未来发行版被修改。</br>
 
 public native static final float faceVerify(float[] feature1, float[] feature2);</br>
