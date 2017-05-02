@@ -28,9 +28,9 @@ public class FaceRecognition
 		System.loadLibrary("opencv_highgui2413");
 		System.loadLibrary("opencv_imgproc2413");
 
-		System.loadLibrary("opencv_core2413d");
-		System.loadLibrary("opencv_highgui2413d");
-		System.loadLibrary("opencv_imgproc2413d");
+//		System.loadLibrary("opencv_core2413d");
+//		System.loadLibrary("opencv_highgui2413d");
+//		System.loadLibrary("opencv_imgproc2413d");
 
 		System.loadLibrary("FaceMatcherDll");
 		System.loadLibrary("FaceRecognition");
